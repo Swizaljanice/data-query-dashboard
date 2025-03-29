@@ -1,7 +1,7 @@
 # Data Query Dashboard Prototype
 
 Live Demo
--- Deployed on Vercel/Netlify (Replace # with your deployment link)
+-- Deployed on Vercel/Netlify https://data-query-dashboard-lovat.vercel.app/
 
 # Overview
 This project is a React-based Data Query Dashboard Prototype for a Gen AI Analytics tool.
